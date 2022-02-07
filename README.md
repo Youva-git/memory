@@ -1,6 +1,6 @@
 Jeu du memory.  
   
-## - Déploiement de l’application:  
+## Déploiement de l’application:  
   
 1. Copiez le dossier du projet dans le dossier « /var/www/html/ ».   
   
