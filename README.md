@@ -1,5 +1,9 @@
 Jeu du memory.  
   
+## Démo:  
+  
+<img src="https://github.com/Youva-git/demos/blob/master/memory.gif">  
+  
 ## Déploiement de l’application:  
   
 1. Copiez le dossier du projet dans le dossier « /var/www/html/ ».   
